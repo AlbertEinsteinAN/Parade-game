@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1656605348 source:c:\users\kaminski\downloads\parade game v1.8 (2)\parade game v1.8\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"jogo.h"
+
+1655144502 c:\users\kaminski\downloads\parade game v1.8 (2)\parade game v1.8\lista.h
+
+1656415238 c:\users\kaminski\downloads\parade game v1.8 (2)\parade game v1.8\pilha.h
+
+1656604982 c:\users\kaminski\downloads\parade game v1.8 (2)\parade game v1.8\jogo.h
+
+1656601032 source:c:\users\kaminski\downloads\parade game v1.8 (2)\parade game v1.8\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"jogo.h"
+
+1656605524 source:c:\users\kaminski\downloads\parade game v1.8 (2)\parade game v1.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"jogo.h"
+	"time.h"
+
+1655170940 source:c:\users\kaminski\downloads\parade game v1.8 (2)\parade game v1.8\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"jogo.h"
+
