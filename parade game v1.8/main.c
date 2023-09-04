@@ -78,7 +78,7 @@ int main()
             while( getchar() != '\n' );
             while (durante_jogo < UMA_CARTA || durante_jogo > CINCO_CARTA)
             {
-                printf("Esse caractere eh invalido.\ n");
+                printf("Esse caractere eh invalido.\n");
                 scanf("%d", &durante_jogo);
                 while( getchar() != '\n' );
             }
@@ -108,7 +108,7 @@ int main()
         while( getchar() != '\n' );
         while (jogar_na_mesa < MAO_COM_1_CARTA || jogar_na_mesa > MAO_COM_5_CARTAS)
         {
-            printf("Por favor digite um numero de 1 a 5 e pressione enter.\ n");
+            printf("Por favor digite um numero de 1 a 5 e pressione enter.\n");
             scanf("%d", &jogar_na_mesa);
             while( getchar() != '\n' );
         }
@@ -153,7 +153,7 @@ int main()
         while( getchar() != '\n' );
         while (jogar_na_colecao_primeira_carta < MAO_COM_1_CARTA || jogar_na_colecao_primeira_carta > MAO_COM_4_CARTAS)
         {
-            printf("Por favor digite um numero de 1 a 4 e pressione enter.\ n");
+            printf("Por favor digite um numero de 1 a 4 e pressione enter.\n");
             scanf("%d", &jogar_na_colecao_primeira_carta);
             while( getchar() != '\n' );
         }
@@ -167,7 +167,7 @@ int main()
         while( getchar() != '\n' );
         while (jogar_na_colecao_segunda_carta < MAO_COM_1_CARTA || jogar_na_colecao_segunda_carta > MAO_COM_3_CARTAS)
         {
-            printf("Por favor digite um numero de 1 a 3 e pressione enter.\ n");
+            printf("Por favor digite um numero de 1 a 3 e pressione enter.\n");
             scanf("%d", &jogar_na_colecao_segunda_carta);
             while( getchar() != '\n' );
         }
